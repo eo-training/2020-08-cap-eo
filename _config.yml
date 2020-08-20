@@ -20,7 +20,7 @@ highlighter:         rouge
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'High School Page Training'
+title:		           'CAP EO Training'
 description:	       ''
 author:              'Office of Elections'
 
@@ -36,7 +36,7 @@ collections:
 
 # Permalinks
 permalink:           /:short_year/:month/:title
-baseurl: /hs-page
+baseurl: /cap-eo
 # Fix date/time generation
 timezone: America/New_York
 
